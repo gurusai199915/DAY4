@@ -13,4 +13,4 @@ git config -- global user.email "your github email id"
   git config --global user.name "github user name"
   git init 
 to creating a floder as a reposority in local
-commit changes
+
